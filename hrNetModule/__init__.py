@@ -1,0 +1,1 @@
+from libraries.hrNetModule.hrNetModel import hrNet
